@@ -1,3 +1,1 @@
-if true
-  puts "This code runs"
-end
+current_time = Time.now
