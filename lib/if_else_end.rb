@@ -5,4 +5,3 @@ if current_time % 2 == 0
 else
   puts "Odd!"
 end
-
